@@ -1,4 +1,7 @@
 <h1 align="center">
+  <br>仅个人备份，不接手开发<br>
+</h1>
+<h1 align="center">
   <img src="https://github.com/slqwqxd/clash/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
